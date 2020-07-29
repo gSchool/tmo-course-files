@@ -21,6 +21,9 @@ Course:
   - Section: Welcome 
     Repos:
       - URL: https://github.com/gSchool/tmo-overview
+    - Section: Sample Unit 
+    Repos:
+      - URL: https://github.com/gSchool/course-intro  
   - Section: Enrollment Requirements 
     Repos:
       - URL: https://github.com/gSchool/tmo-pre-assessment
