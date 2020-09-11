@@ -27,18 +27,34 @@ Course:
       - URL: https://github.com/gSchool/tmo-course-requirements
 
   - Section: Core
-      Repos:
+    Repos:
       - URL: https://github.com/gSchool/tmo-git
+      # - URL: https://github.com/gSchool/INTRO TO AGILE
       - URL: https://github.com/gSchool/tmo-tdd-java
+      # - URL: https://github.com/gSchool/CLEARWATER
+      # - URL: https://github.com/gSchool/AGILE-DEEP
+      # - URL: https://github.com/gSchool/CLEAN-CODE
+      # - URL: https://github.com/gSchool/SECURITY-ZERO-TRUST
+      # - URL: https://github.com/gSchool/JSON-YAML-PUML
       - URL: https://github.com/gSchool/java-oop-block
 
   - Section: Spring and Spring Boot
-      Repos:
+    Repos:
       - URL: https://github.com/gSchool/spring-block
       - URL: https://github.com/gSchool/tmo-spring-boot-testing
 
   - Section: Microservices and Deployment
-      Repos:
+    Repos:
+      # - URL: https://github.com/gSchool/12-FACTOR-APP
+      # - URL: https://github.com/gSchool/CLEARWATER-DEEP
       - URL: https://github.com/gSchool/tmo-containerization
+      # - URL: https://github.com/gSchool/DOCKERIZE-AUTOMALL
+      # - URL: https://github.com/gSchool/API-CONTRACTS
       - URL: https://github.com/gSchool/tmo-microservices
+      # - URL: https://github.com/gSchool/DEV-CENTER-CODE-GEN
+      # - URL: https://github.com/gSchool/CI-CD-PIPELINES
+      # - URL: https://github.com/gSchool/AUTO-MALL-REFACTOR-MS
+  
+  # - Section: Capstone Projects
+
 
