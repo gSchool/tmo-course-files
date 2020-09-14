@@ -30,8 +30,8 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/tmo-agile-intro
       - URL: https://github.com/gSchool/tmo-git
-      - URL: https://github.com/gSchool/tmo-tdd-java
       - URL: https://github.com/gSchool/tmo-clearwater-intro
+      - URL: https://github.com/gSchool/tmo-tdd-java
       # - URL: https://github.com/gSchool/AGILE-DEEP
       # - URL: https://github.com/gSchool/CLEAN-CODE
       - URL: https://github.com/gSchool/tmo-security-zero-trust
