@@ -34,7 +34,7 @@ Course:
       # - URL: https://github.com/gSchool/CLEARWATER
       # - URL: https://github.com/gSchool/AGILE-DEEP
       # - URL: https://github.com/gSchool/CLEAN-CODE
-      # - URL: https://github.com/gSchool/SECURITY-ZERO-TRUST
+      - URL: https://github.com/gSchool/tmo-security-zero-trust
       # - URL: https://github.com/gSchool/JSON-YAML-PUML
       - URL: https://github.com/gSchool/java-oop-block
 
