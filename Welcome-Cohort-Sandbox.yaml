@@ -28,8 +28,8 @@ Course:
 
   - Section: Core
     Repos:
+      - URL: https://github.com/gSchool/tmo-agile-intro
       - URL: https://github.com/gSchool/tmo-git
-      # - URL: https://github.com/gSchool/INTRO TO AGILE
       - URL: https://github.com/gSchool/tmo-tdd-java
       # - URL: https://github.com/gSchool/CLEARWATER
       # - URL: https://github.com/gSchool/AGILE-DEEP
