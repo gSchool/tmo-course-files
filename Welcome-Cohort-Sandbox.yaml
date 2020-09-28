@@ -35,12 +35,13 @@ Course:
       # - URL: https://github.com/gSchool/AGILE-DEEP
       - URL: https://github.com/gSchool/tmo-clean-code
       - URL: https://github.com/gSchool/tmo-security-zero-trust
+      - URL: https://github.com/gSchool/tmo-json
       # - URL: https://github.com/gSchool/JSON-YAML-PUML
-      - URL: https://github.com/gSchool/java-oop-block
+      - URL: https://github.com/gSchool/tmo-java-oop-block
 
   - Section: Spring and Spring Boot
     Repos:
-      - URL: https://github.com/gSchool/spring-block
+      - URL: https://github.com/gSchool/tmo-spring-block
       - URL: https://github.com/gSchool/tmo-spring-boot-testing
 
   - Section: Microservices and Deployment
