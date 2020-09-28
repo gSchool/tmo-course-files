@@ -45,7 +45,7 @@ Course:
 
   - Section: Microservices and Deployment
     Repos:
-      # - URL: https://github.com/gSchool/12-FACTOR-APP
+      - URL: https://github.com/gSchool/tmo-12-factor
       # - URL: https://github.com/gSchool/CLEARWATER-DEEP
       - URL: https://github.com/gSchool/tmo-containerization
       # - URL: https://github.com/gSchool/DOCKERIZE-AUTOMALL
