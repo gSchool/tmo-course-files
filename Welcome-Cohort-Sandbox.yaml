@@ -42,7 +42,7 @@ Course:
   - Section: Spring and Spring Boot
     Repos:
       - URL: https://github.com/gSchool/tmo-spring-block
-      - URL: https://github.com/gSchool/tmo-spring-boot-testing
+      - URL: https://github.com/gSchool/tmo-automall-project-block
 
   - Section: Microservices and Deployment
     Repos:
