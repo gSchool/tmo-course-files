@@ -52,6 +52,7 @@ Course:
       # - URL: https://github.com/gSchool/DOCKERIZE-AUTOMALL
       # - URL: https://github.com/gSchool/API-CONTRACTS
       - URL: https://github.com/gSchool/tmo-microservices
+      - URL: https://github.com/gSchool/tmo-containerization
       # - URL: https://github.com/gSchool/DEV-CENTER-CODE-GEN
       # - URL: https://github.com/gSchool/CI-CD-PIPELINES
       # - URL: https://github.com/gSchool/AUTO-MALL-REFACTOR-MS
