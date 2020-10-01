@@ -49,7 +49,7 @@ Course:
       - URL: https://github.com/gSchool/tmo-12-factor
       # - URL: https://github.com/gSchool/CLEARWATER-DEEP
       - URL: https://github.com/gSchool/tmo-containerization
-      # - URL: https://github.com/gSchool/DOCKERIZE-AUTOMALL
+      - URL: https://github.com/gSchool/tmo-pipelines
       # - URL: https://github.com/gSchool/API-CONTRACTS
       - URL: https://github.com/gSchool/tmo-microservices
       # - URL: https://github.com/gSchool/DEV-CENTER-CODE-GEN
