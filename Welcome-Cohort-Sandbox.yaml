@@ -55,6 +55,7 @@ Course:
       # - URL: https://github.com/gSchool/DEV-CENTER-CODE-GEN
       # - URL: https://github.com/gSchool/CI-CD-PIPELINES
       # - URL: https://github.com/gSchool/AUTO-MALL-REFACTOR-MS
+      - URL: https://github.com/gSchool/gmdb-lite-setup.sql
   
   # - Section: Capstone Projects
 
