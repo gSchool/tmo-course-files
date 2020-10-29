@@ -23,4 +23,5 @@ Course:
       - URL: https://github.com/gSchool/tmo-overview
   - Section: Enrollment Requirements 
     Repos:
+      - URL: https://github.com/gSchool/tmo-pre-assessment
       - URL: https://github.com/gSchool/tmo-course-requirements
