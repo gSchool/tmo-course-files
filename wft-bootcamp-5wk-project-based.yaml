@@ -25,3 +25,6 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/tmo-pre-assessment
       - URL: https://github.com/gSchool/tmo-course-requirements
+  - Section: Deploying to the Cloud 
+    Repos:
+      - URL: https://github.com/gSchool/TMO-Conducktor
