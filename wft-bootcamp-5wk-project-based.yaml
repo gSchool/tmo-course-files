@@ -28,3 +28,6 @@ Course:
   - Section: Deploying to the Cloud 
     Repos:
       - URL: https://github.com/gSchool/TMO-Conducktor
+  - Section: Continuous Integration & Delivery
+    Repos:
+      - URL: https://github.com/gSchool/TMO-CICD-GitLab
