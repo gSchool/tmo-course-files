@@ -25,6 +25,9 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/tmo-pre-assessment
       - URL: https://github.com/gSchool/tmo-course-requirements
+  - Section: Supplemental Materials
+    Repos:
+      - URL: https://github.com/gSchool/tmo-git
   - Section: Continuous Integration & Delivery
     Repos:
       - URL: https://github.com/gSchool/TMO-CICD-GitLab
