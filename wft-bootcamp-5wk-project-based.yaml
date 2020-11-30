@@ -28,6 +28,9 @@ Course:
   - Section: Supplemental Materials
     Repos:
       - URL: https://github.com/gSchool/tmo-git
+  - Section: Logistics
+    Repos:
+      - URL: https://github.com/gSchool/tmo-cohort-logistics
   - Section: Continuous Integration & Delivery
     Repos:
       - URL: https://github.com/gSchool/TMO-CICD-GitLab
