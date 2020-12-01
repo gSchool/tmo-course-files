@@ -42,3 +42,6 @@ Course:
   - Section: Test Driven Development
     Repos:
       - URL: https://github.com/gSchool/TMO-tdd
+  - Section: Capstone 
+    Repos:
+      - URL: https://github.com/gSchool/tmo-capstone-specification
