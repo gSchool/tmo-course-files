@@ -1,0 +1,47 @@
+# Course.yaml files specify the grouping and ordering of repos that define a course.
+
+# Supported Fields
+# ===================
+# DefaultUnitVisibility: hidden -- (optional) set to 'hidden' to hide all units when a course first starts.
+# Course -- The top level array containing the sections of a course
+# Course.Section: list -- A list contining a single array of repos. Content in the same section is grouped together on curriculum homepage.
+# Course.Repos: list --  A list containing block repos that have been published in Learn.
+# Course.Repos.URL -- The URL to a block repo that has been published in Learn.
+
+# Related Snippets
+# ===================
+# `sectionyaml`: add one section
+# `repoyaml`: add one repo
+# Note: Be sure to place the cursor at the appropriate indentation level before running either of these.
+
+# All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
+---
+DefaultUnitVisibility: hidden
+Course:
+  - Section: Welcome 
+    Repos:
+      - URL: https://github.com/gSchool/tmo-overview
+  - Section: Enrollment Requirements 
+    Repos:
+      - URL: https://github.com/gSchool/tmo-pre-assessment
+      - URL: https://github.com/gSchool/tmo-course-requirements
+  - Section: Supplemental Materials
+    Repos:
+      - URL: https://github.com/gSchool/tmo-git
+  - Section: Logistics
+    Repos:
+      - URL: https://github.com/gSchool/tmo-cohort-logistics
+  - Section: Continuous Integration & Delivery
+    Repos:
+      - URL: https://github.com/gSchool/TMO-CICD-GitLab
+  - Section: Deploying to the Cloud 
+    Repos:
+      - URL: https://github.com/gSchool/TMO-PCF-Deploys
+      - URL: https://github.com/gSchool/TMO-Docker
+      - URL: https://github.com/gSchool/TMO-Conducktor
+  - Section: Test Driven Development
+    Repos:
+      - URL: https://github.com/gSchool/TMO-tdd
+  - Section: Capstone 
+    Repos:
+      - URL: https://github.com/gSchool/tmo-capstone-specification
