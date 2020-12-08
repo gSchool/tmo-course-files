@@ -24,23 +24,23 @@ Course:
   - Section: Enrollment Requirements 
     Repos:
       - URL: https://github.com/gSchool/tmo-enrollment-requirements-c6
-  # - Section: Supplemental Materials
-  #   Repos:
-  #     - URL: https://github.com/gSchool/tmo-git
-  # - Section: Logistics
-  #   Repos:
-  #     - URL: https://github.com/gSchool/tmo-cohort-logistics
-  # - Section: Continuous Integration & Delivery
-  #   Repos:
-  #     - URL: https://github.com/gSchool/TMO-CICD-GitLab
-  # - Section: Deploying to the Cloud 
-  #   Repos:
-  #     - URL: https://github.com/gSchool/TMO-PCF-Deploys
-  #     - URL: https://github.com/gSchool/TMO-Docker
-  #     - URL: https://github.com/gSchool/TMO-Conducktor
-  # - Section: Test Driven Development
-  #   Repos:
-  #     - URL: https://github.com/gSchool/TMO-tdd
-  # - Section: Capstone 
-  #   Repos:
-  #     - URL: https://github.com/gSchool/tmo-capstone-specification
+  - Section: Supplemental Materials
+    Repos:
+      - URL: https://github.com/gSchool/tmo-git
+  - Section: Logistics
+    Repos:
+      - URL: https://github.com/gSchool/tmo-cohort-logistics
+  - Section: Continuous Integration & Delivery
+    Repos:
+      - URL: https://github.com/gSchool/TMO-CICD-GitLab
+  - Section: Test Driven Development
+    Repos:
+      - URL: https://github.com/gSchool/TMO-tdd
+  - Section: Deploying to the Cloud 
+    Repos:
+      - URL: https://github.com/gSchool/TMO-PCF-Deploys
+      - URL: https://github.com/gSchool/TMO-Docker
+      - URL: https://github.com/gSchool/TMO-Conducktor
+  - Section: Capstone 
+    Repos:
+      - URL: https://github.com/gSchool/tmo-capstone-specification
