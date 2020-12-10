@@ -53,5 +53,5 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/tmo-capstone-specification
   - Section: Breakouts
-     Repos:
+    Repos:
        - URL: https://github.com/gSchool/tmo-db-devops-breakout
