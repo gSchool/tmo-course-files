@@ -41,6 +41,9 @@ Course:
       - URL: https://github.com/gSchool/TMO-PCF-Deploys
       - URL: https://github.com/gSchool/TMO-Docker
       - URL: https://github.com/gSchool/TMO-Conducktor
+  - Section: Security
+    Repos:
+      - URL: https://github.com/gSchool/tmo-security-zero-trust
   - Section: Capstone 
     Repos:
       - URL: https://github.com/gSchool/tmo-capstone-specification
