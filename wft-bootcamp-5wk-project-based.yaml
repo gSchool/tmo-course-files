@@ -42,10 +42,6 @@ Course:
   - Section: Test Driven Development
     Repos:
       - URL: https://github.com/gSchool/TMO-tdd
-  - Section: Agile 
-    Repos:
-      - URL: https://github.com/gSchool/tmo-agile-intro
-      - URL: https://github.com/gSchool/tmo-user-stories
   - Section: Security at T-Mobile
     Repos:
       - URL: https://github.com/gSchool/tmo-security-zero-trust
@@ -54,4 +50,7 @@ Course:
       - URL: https://github.com/gSchool/tmo-capstone-specification
   - Section: Breakouts
     Repos:
-       - URL: https://github.com/gSchool/tmo-db-devops-breakout
+      - URL: https://github.com/gSchool/tmo-agile-intro
+      - URL: https://github.com/gSchool/tmo-user-stories
+      - URL: https://github.com/gSchool/tmo-db-devops-breakout
+      
