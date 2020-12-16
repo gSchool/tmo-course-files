@@ -43,7 +43,6 @@ Course:
       - URL: https://github.com/gSchool/TMO-Docker
       - URL: https://github.com/gSchool/TMO-Kubernetes
       - URL: https://github.com/gSchool/TMO-Conducktor
-      - URL: https://github.com/gSchool/tmo-microservice-networking
   - Section: Microservices
     Repos:
       - URL: https://github.com/gSchool/tmo-microservice-networking
