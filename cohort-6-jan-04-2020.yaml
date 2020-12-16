@@ -24,6 +24,7 @@ Course:
   - Section: Enrollment Requirements 
     Repos:
       - URL: https://github.com/gSchool/tmo-enrollment-requirements-c6
+      - URL: https://github.com/gSchool/tmo-course-requirements
   - Section: Supplemental Materials
     Repos:
       - URL: https://github.com/gSchool/tmo-git
