@@ -44,8 +44,9 @@ Course:
       - URL: https://github.com/gSchool/TMO-Kubernetes
       - URL: https://github.com/gSchool/TMO-Conducktor
       - URL: https://github.com/gSchool/tmo-microservice-networking
-  - Section: Security
+  - Section: Microservices
     Repos:
+      - URL: https://github.com/gSchool/tmo-microservice-networking
       - URL: https://github.com/gSchool/tmo-security-zero-trust
   - Section: Capstone 
     Repos:
