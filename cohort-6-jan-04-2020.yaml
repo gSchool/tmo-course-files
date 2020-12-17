@@ -28,6 +28,7 @@ Course:
   - Section: Supplemental Materials
     Repos:
       - URL: https://github.com/gSchool/tmo-git
+      - URL: https://github.com/gSchool/tmo-springboot-crud-tdd
   - Section: Logistics
     Repos:
       - URL: https://github.com/gSchool/tmo-cohort-logistics
