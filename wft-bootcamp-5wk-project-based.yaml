@@ -52,3 +52,6 @@ Course:
   - Section: Capstone 
     Repos:
       - URL: https://github.com/gSchool/tmo-capstone-specification
+  - Section: Quick Final Assessment 
+    Repos:
+      - URL: https://github.com/gSchool/tmo-five-week-quick-post-assessment
