@@ -36,22 +36,24 @@ Course:
       - URL: https://github.com/gSchool/TMO-CICD-GitLab
   - Section: Deploying to the Cloud 
     Repos:
-      - URL: https://github.com/gSchool/TMO-PCF-Deploys
       - URL: https://github.com/gSchool/TMO-Docker
+      - URL: https://github.com/gSchool/TMO-PCF-Deploys
       - URL: https://github.com/gSchool/TMO-Conducktor
+      - URL: https://github.com/gSchool/tmo-microservice-networking
   - Section: Test Driven Development
     Repos:
       - URL: https://github.com/gSchool/TMO-tdd
-  - Section: Agile 
-    Repos:
-      - URL: https://github.com/gSchool/tmo-agile-intro
-      - URL: https://github.com/gSchool/tmo-user-stories
   - Section: Security at T-Mobile
     Repos:
       - URL: https://github.com/gSchool/tmo-security-zero-trust
   - Section: Capstone 
     Repos:
       - URL: https://github.com/gSchool/tmo-capstone-specification
+  - Section: Breakouts
+    Repos:
+      - URL: https://github.com/gSchool/tmo-agile-intro
+      - URL: https://github.com/gSchool/tmo-user-stories
+      - URL: https://github.com/gSchool/tmo-db-devops-breakout
   - Section: Quick Final Assessment 
     Repos:
       - URL: https://github.com/gSchool/tmo-five-week-quick-post-assessment

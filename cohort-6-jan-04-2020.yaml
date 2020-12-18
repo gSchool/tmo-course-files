@@ -24,9 +24,11 @@ Course:
   - Section: Enrollment Requirements 
     Repos:
       - URL: https://github.com/gSchool/tmo-enrollment-requirements-c6
+      - URL: https://github.com/gSchool/tmo-course-requirements
   - Section: Supplemental Materials
     Repos:
       - URL: https://github.com/gSchool/tmo-git
+      - URL: https://github.com/gSchool/tmo-springboot-crud-tdd
   - Section: Logistics
     Repos:
       - URL: https://github.com/gSchool/tmo-cohort-logistics
@@ -40,7 +42,12 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/TMO-PCF-Deploys
       - URL: https://github.com/gSchool/TMO-Docker
+      - URL: https://github.com/gSchool/TMO-Kubernetes
       - URL: https://github.com/gSchool/TMO-Conducktor
+  - Section: Microservices
+    Repos:
+      - URL: https://github.com/gSchool/tmo-microservice-networking
+      - URL: https://github.com/gSchool/tmo-security-zero-trust
   - Section: Capstone 
     Repos:
       - URL: https://github.com/gSchool/tmo-capstone-specification

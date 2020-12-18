@@ -57,5 +57,7 @@ Course:
   - Section: Final Assessment
     Repos:
       - URL: https://github.com/gSchool/tmo-final-assessment
-
-
+  
+  - Section: Breakouts
+    Repos:
+      - URL: https://github.com/gSchool/tmo-db-devops-breakout
