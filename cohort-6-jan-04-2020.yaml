@@ -31,7 +31,7 @@ Course:
       - URL: https://github.com/gSchool/tmo-springboot-crud-tdd
   - Section: Logistics
     Repos:
-      - URL: https://github.com/gSchool/tmo-cohort-logistics
+      - URL: https://github.com/gSchool/tmo-cohort-6-logistics
   - Section: Continuous Integration & Delivery
     Repos:
       - URL: https://github.com/gSchool/TMO-CICD-GitLab
