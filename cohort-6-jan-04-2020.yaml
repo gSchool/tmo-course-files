@@ -47,6 +47,7 @@ Course:
   - Section: Microservices
     Repos:
       - URL: https://github.com/gSchool/tmo-microservice-networking
+      - URL: https://github.com/gSchool/TMO-Clearwater-PUML-Swagger
       - URL: https://github.com/gSchool/tmo-security-zero-trust
   - Section: Capstone 
     Repos:
