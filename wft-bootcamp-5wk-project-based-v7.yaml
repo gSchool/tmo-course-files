@@ -44,7 +44,7 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/TMO-Docker
       - URL: https://github.com/gSchool/TMO-PCF-Deploys
-      - URL: https://github.com/gSchool/TMO-Conducktor-2
+      - URL: https://github.com/gSchool/TMO-Conducktor
       - URL: https://github.com/gSchool/tmo-microservice-networking
   - Section: Test Driven Development
     Repos:
