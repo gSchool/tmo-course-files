@@ -52,3 +52,6 @@ Course:
   - Section: Capstone 
     Repos:
       - URL: https://github.com/gSchool/tmo-capstone-specification
+  - Section: Final Assessment
+    Repos:
+      - URL: https://github.com/gSchool/tmo-c6-final-assessment  
