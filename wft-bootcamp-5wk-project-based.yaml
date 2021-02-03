@@ -25,32 +25,30 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/tmo-pre-assessment
       - URL: https://github.com/gSchool/tmo-course-requirements
-  - Section: Supplemental Materials
-    Repos:
-      - URL: https://github.com/gSchool/tmo-git
-      - URL: https://github.com/gSchool/tmo-jazz
-      - URL: https://github.com/gSchool/tmo-springboot-crud-tdd
-      - URL: https://github.com/gSchool/tmo-react
-      - URL: https://github.com/gSchool/tmo-async
-      - URL: https://github.com/gSchool/angular-11-curriculum
   - Section: Logistics
     Repos:
       - URL: https://github.com/gSchool/tmo-cohort-logistics
+  - Section: Supplemental Materials
+    Repos:
+      - URL: https://github.com/gSchool/tmo-git
+      - URL: https://github.com/gSchool/tmo-springboot-crud-tdd
+      - URL: https://github.com/gSchool/angular-11-curriculum
+      - URL: https://github.com/gSchool/tmo-async
+      - URL: https://github.com/gSchool/tmo-react
+      - URL: https://github.com/gSchool/tmo-jazz
   - Section: Continuous Integration & Delivery
     Repos:
       - URL: https://github.com/gSchool/TMO-CICD-GitLab
-  - Section: Deploying to the Cloud 
-    Repos:
-      - URL: https://github.com/gSchool/TMO-Docker
-      - URL: https://github.com/gSchool/TMO-PCF-Deploys
-      - URL: https://github.com/gSchool/TMO-Conducktor
-      - URL: https://github.com/gSchool/tmo-microservice-networking
   - Section: Test Driven Development
     Repos:
       - URL: https://github.com/gSchool/TMO-tdd
-  - Section: Security at T-Mobile
+  - Section: Deploying to the Cloud
     Repos:
-      - URL: https://github.com/gSchool/tmo-security-zero-trust
+      - URL: https://github.com/gSchool/TMO-PCF-Deploys
+      - URL: https://github.com/gSchool/TMO-Docker
+      - URL: https://github.com/gSchool/TMO-Kubernetes
+      - URL: https://github.com/gSchool/TMO-Conducktor
+      - URL: https://github.com/gSchool/tmo-microservice-networking
   - Section: Capstone 
     Repos:
       - URL: https://github.com/gSchool/tmo-capstone-specification
@@ -58,7 +56,9 @@ Course:
     Repos:
       - URL: https://github.com/gSchool/tmo-agile-intro
       - URL: https://github.com/gSchool/tmo-user-stories
+      - URL: https://github.com/gSchool/TMO-Clearwater-PUML-Swagger
       - URL: https://github.com/gSchool/tmo-db-devops-breakout
+      - URL: https://github.com/gSchool/tmo-security-zero-trust
   - Section: Quick Final Assessment 
     Repos:
       - URL: https://github.com/gSchool/tmo-five-week-quick-post-assessment
