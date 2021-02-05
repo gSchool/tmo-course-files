@@ -55,3 +55,6 @@ Course:
   - Section: Final Assessment
     Repos:
       - URL: https://github.com/gSchool/tmo-c6-final-assessment  
+  - Section: Spring Boot
+    Repos:
+      - URL: https://github.com/gSchool/tmo-spring-boot
